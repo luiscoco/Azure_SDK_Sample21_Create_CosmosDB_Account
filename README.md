@@ -1,4 +1,4 @@
-# AzureSDKCosmosDBCreate
+# Azure SDK for .NET: How to create an Azure CosmosDB account
 
 
 
